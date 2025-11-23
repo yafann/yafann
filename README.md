@@ -6,5 +6,5 @@ I'm Yafan, a web developer who enjoys building clean, responsive, and intuitive 
 * 🖥️  See my portfolio at [My Port](http://yafan.dev)
 
 **Fun Facts:**
-* • Matcha & Thai Tea lover
-* • Demon Slayer is my favorite anime
+*  Matcha & Thai Tea lover
+*  Demon Slayer is my favorite anime

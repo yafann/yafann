@@ -1,4 +1,4 @@
-**Hi there! https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/lottie.json**
+**Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" />**
 
 I'm Yafan, a web developer who enjoys building clean, responsive, and intuitive web experiences. I work mainly with React.js, Tailwind CSS, and occasionally jump into backend development with Node.js and MongoDB. Always learning, always building.
 
